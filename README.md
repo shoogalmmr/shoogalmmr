@@ -7,11 +7,7 @@
 <p align="left">I'm Shoog , an IS student from KSA, passionate about data analysis and data science. My journey in tech has led me to work on diverse projects in these fields as well as other technical areas, aiming to create intelligent solutions that turn data into meaningful insights.</p>
 <br clear="both">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shoog-almmr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
 
