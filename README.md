@@ -54,8 +54,7 @@
 ###
 
 
-
-## My GitHub Stats
+### My GitHub Stats
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoogalmmr&theme=default" alt="GitHub Streak" height="150" />
