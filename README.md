@@ -1,4 +1,4 @@
-<h3 align="left">About Me :</h3>
+<h3 align="left">Hi there! 👋</h3>
 
 <p align="left">I am passionate about data analysis and data science. My journey in tech has led me to work on diverse projects in these fields as well as other technical areas, aiming to create intelligent solutions that turn data into meaningful insights.</p>
 
