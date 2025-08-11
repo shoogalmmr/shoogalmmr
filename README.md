@@ -4,17 +4,7 @@
 
 <br clear="both">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shoog-almmr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h5 align="left">I'm Shoog , an IS student from KSA, passionate about data analysis, data science, Always passionate about creating innovative solutions and uncovering insights that improve outcomes.</h5>
+<p align="left">I'm Shoog , an IS student from KSA, passionate about data analysis, data science, Always passionate about creating innovative solutions and uncovering insights that improve outcomes.</p>
 
 ###
 
@@ -67,6 +57,16 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shoogalmmr&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true&order=1" height="10" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoogalmmr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/shoog-almmr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
