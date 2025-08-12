@@ -1,13 +1,14 @@
 
+<h2 align="center">Hi there! 👋 I'm Shoog </h2>
 
-<h2 align="left">Hi there! 👋</h2>
+<p align="center" style="color: green ; font-size: 14px;">Data Analyst | Data Scientist </p>
 
 ###
 
+### About Me 
+
 <p align="left">I'm Shoog , an IS student from KSA, passionate about data analysis and data science. My journey in tech has led me to work on diverse projects in these fields as well as other technical areas, aiming to create intelligent solutions that turn data into meaningful insights.</p>
 <br clear="both">
-
-
 
 ###
 
