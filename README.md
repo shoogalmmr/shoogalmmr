@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there! 👋 I'm Shoog </h2>
+<h2 align="center">Hi there! 👋 I'm Shoog</h2>
 
 <p align="center" style="color: green ; font-size: 14px;">Data Analyst | Data Scientist </p>
 
