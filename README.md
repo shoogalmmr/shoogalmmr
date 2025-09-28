@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi there! 👋 I'm SHOOG </h2>
 
-<p align="center" style="color: green ; font-size: 14px;">Data Analyst | Data Scientist </p>
+<p align="center" style="color: green ; font-size: 14px;">System Analyst | Data Analyst </p>
 
 
 
