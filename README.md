@@ -9,7 +9,19 @@
 
 ### About Me 
 
-<p align="left">I'm Shoog , an IS student from KSA, passionate about data analysis and data science. My journey in tech has led me to work on diverse projects in these fields as well as other technical areas, aiming to create intelligent solutions that turn data into meaningful insights.</p>
+<p align="left"> Hi! I'm Shoog ,passionate about leveraging data, technology, and information systems to help organizations make smarter decisions and improve efficiency.
+
+#### My Skills:
+
+• Programming: Python & Java
+
+• Data Analysis & Visualization: SQL, Power BI, Tableau, Excel
+
+• System Analysis & Design: UML, Database Design, ERP Systems
+
+• Project & IT Management: Business Process Modeling, Digital Transformation
+
+I focus on projects in data analysis, information systems, and digital transformation, and I’m always eager to learn new tools and skills to develop practical and innovative solutions.</p>
 <br clear="both">
 
 ###
