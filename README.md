@@ -9,7 +9,7 @@
 
 ### About Me 
 
-<p align="left"> Hi! I'm Shoog, a senior Information Systems student. Passionate about leveraging data, technology, and information systems to help organizations make smarter decisions and improve efficiency.
+<p align="left"> Hi! I'm Shoog, a Bachelor’s degree holder in Information Systems. I'm passionate about leveraging data, technology, and information systems to help organizations make smarter decisions and improve efficiency.
 
 #### My Skills:
 
